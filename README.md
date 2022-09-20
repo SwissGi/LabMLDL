@@ -1,4 +1,4 @@
-## Lab Course :: Introduction to Machine Learning and Deep Learning
+## Lab Course :: Introduction to Machine Learning & Deep Learning
 
 This repository features a series of interactive Jupyter Notebooks for the Fall term 2021 lab course accompanying the 
 7,235,1.00 *Introduction to Machine Learning and Deep Learning* course offered at the 
